@@ -9,3 +9,7 @@ body{
     min-width: 1000px;
     margin: 0 auto;
 }
+
+.header{
+    background-color: tomato;
+}
